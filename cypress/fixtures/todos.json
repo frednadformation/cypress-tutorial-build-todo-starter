@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "name": "Acheter du lait",
+        "isComplete": true
+    },
+    {
+        "id" : 2,
+        "name": "Faire le menage",
+        "isComplete": false
+    },
+    {
+        "id" : 3,
+        "name": "Réparer la commode",
+        "isComplete": false
+    },
+    {
+        "id" : 4,
+        "name": "Apprendre le langage assembleur",
+        "isComplete": false
+    }
+]
