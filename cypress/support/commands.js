@@ -1,3 +1,5 @@
+import 'cypress-iframe';
+
 Cypress.Commands.add('seedAndVisit', () => {
     cy.server();
     cy.route('GET', '/api/todos', 'fixture:todos');

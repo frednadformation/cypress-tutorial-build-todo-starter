@@ -9,14 +9,17 @@
     "serve": "json-server db.json",
     "dev": "concurrently \"npm run watch\" \"npm run serve\"",
     "cypress": "cypress open",
-    "cypress:all" : "cypress run"
+    "cypress:all": "cypress run"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.3",
     "axios": "0.19.2",
     "concurrently": "3.6.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-iframe": "^1.0.1",
     "json-server": "0.16.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
