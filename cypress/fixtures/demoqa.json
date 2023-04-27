@@ -1,0 +1,21 @@
+[
+    {
+        "firstname": "Tom",
+        "lastname": "Jerry",
+        "gender": "Other",
+        "number": "0101010101"
+    },
+    {
+        "firstname": "John",
+        "lastname": "Doe",
+        "gender": "Female",
+        "number": "0101010101"
+    },
+    {
+        "firstname": "Toto",
+        "lastname": "Titi",
+        "gender": "Male",
+        "number": "0101010101"
+    }
+
+]

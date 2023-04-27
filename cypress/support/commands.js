@@ -6,3 +6,7 @@ Cypress.Commands.add('seedAndVisit', () => {
     cy.visit('/');
 
 });
+
+Cypress.Commands.add('clickLink', (label) => {
+    cy.get('a').contains(label).click({force:true});
+});
