@@ -1,0 +1,42 @@
+[
+    {
+        "username": "John",
+        "email" : "john@example.com",
+        "tel": "01101010101",
+        "fax": "03033030",
+        "attachedfile": "sample.pdf",
+        "gender": "Male",
+        "experience" : "tree",
+        "tools": "cypress"
+    },
+    {
+        "username": "toto",
+        "email" : "toto@example.com",
+        "tel": "01101010101",
+        "fax": "03033030",
+        "attachedfile": "sample.pdf",
+        "gender": "Male",
+        "experience" : "tree",
+        "tools": "cypress"
+    },
+    {
+        "username": "titi",
+        "email" : "titi@example.com",
+        "tel": "01101010101",
+        "fax": "03033030",
+        "attachedfile": "sample.pdf",
+        "gender": "Male",
+        "experience" : "tree",
+        "tools": "cypress"
+    },
+    {
+        "username": "tata",
+        "email" : "tata@example.com",
+        "tel": "01101010101",
+        "fax": "03033030",
+        "attachedfile": "sample.pdf",
+        "gender": "Male",
+        "experience" : "tree",
+        "tools": "cypress"
+    }
+]
